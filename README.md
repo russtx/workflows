@@ -1,3 +1,3 @@
-# Workflows Course
+#workflows
 
-This project is an example of workflow management for a lynda.com course.
+This is a sample of a workflow setup
