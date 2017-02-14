@@ -9,8 +9,11 @@
   "author": "Russ Berge",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
     "gulp-coffee": "^2.3.3",
     "gulp-concat": "^2.6.1",
-    "gulp-util": "^2.2.14"
+    "gulp-util": "^2.2.14",
+    "jquery": "^3.1.1",
+    "mustache": "^2.3.0"
   }
 }
